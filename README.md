@@ -18,3 +18,20 @@
 ### Email and Password for testing the App
 - Email: admin@iwatami.com
 - Password: 12345678
+
+
+## Documentation
+
+- go to "localhost:8000/login" to login
+- go to "localhost:8000/register" to register a new account
+
+### New Features
+- Chart on Overview Pages
+- Chart on Chart Pages
+- History Pages Filter by Date
+
+### Function that doesnt work yet
+- Set Minimum and Maximum for pH, Konduktivitas, DO, Suhu, Sisa Pakan
+- Change user Password
+- Save or Print History Table
+- and Others
