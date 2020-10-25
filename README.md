@@ -10,11 +10,12 @@
 ## How to Install
 
 1. fork and clone this repo
-2. create new mysql database named "laravel_iwatami"
-3. import "database/mySql/laravel_iwatami.sql" file to laravel_iwatami database
-4. run in terminal "npm i" for installing all package
-5. run in terminal "cd /laravel-iwatami" (go to your cloned repo) 
-6. run in terminal "php artisan serve" to run in localhost:8000
+2. install and open xampp to setting up phpmyadmin for mysql database
+3. create new mysql database named "laravel_iwatami"
+4. import "database/mySql/laravel_iwatami.sql" file to laravel_iwatami database
+5. run in terminal "npm i" for installing all package
+6. run in terminal "cd /laravel-iwatami" (go to your cloned repo) 
+7. run in terminal "php artisan serve" to run in localhost:8000
 
 
 ### Email and Password for testing the App
