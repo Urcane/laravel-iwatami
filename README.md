@@ -12,6 +12,7 @@
 1. fork and clone this repo
 2. create new mysql database named "laravel_iwatami"
 3. import "database/mySql/laravel_iwatami.sql" file to laravel_iwatami database
+5. run in terminal "cd /laravel-iwatami" (go to your cloned repo) 
 4. run in terminal "php artisan serve" to run in localhost:8000
 
 
